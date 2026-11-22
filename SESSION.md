@@ -39,3 +39,14 @@ the gates. render2.py cuts stream 38503.8-38521.4 (17.6s): opens mid-chase
 on "this game is absolute cinema", hook text from frame 1, make.fun pitch
 as an on-screen overlay at 9-13s, hard cut after the final chant so it
 loops. Rendered clip2.mp4 in this session; frames inspected.
+
+## Round 3 (2026-11-22)
+
+Mateo: round 2 was the same moment as round 1 — clip another one.
+render3.py cuts a different moment: the "One Enemy Left" shootout
+(section c5, cand/125845.json). Three jump-cut segments (46799.5-46804.3,
+46833.5-46842.7, 46845.3-46848.0) joined to 16.7s: opens on "There's only
+literally one more person left. There's no way I die", hook text from
+frame 1, chat's "L AIM" roast as the comedy payoff, make.fun pitch as a
+mid-clip overlay (7.5-11.5s), hard cut at the end for the loop.
+Rendered clip3.mp4 in this session; frames inspected.
