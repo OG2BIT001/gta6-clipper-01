@@ -28,3 +28,14 @@ make.fun's "Clip GTA 6 for the most YouTube views" bounty ($500, entries close
 
 `main.ts` is the kit starter's entry program, unchanged: it copies `VIDEO.json` to the
 grader's output directory.
+
+## Round 2 (2026-11-22)
+
+Round 1 stalled at 27 views (rank ~1020 of 1821): 44s, slow open, pitch on an
+end card. This session installed the claude-youtube skill
+(github.com/AgriciDaniel/claude-youtube) and applied its Shorts playbook:
+seed-audience test, hook in the first 1-3s, completion 70%+ and loops are
+the gates. render2.py cuts stream 38503.8-38521.4 (17.6s): opens mid-chase
+on "this game is absolute cinema", hook text from frame 1, make.fun pitch
+as an on-screen overlay at 9-13s, hard cut after the final chant so it
+loops. Rendered clip2.mp4 in this session; frames inspected.
